@@ -1,5 +1,6 @@
 package com.semana14;
 
-public class PersonaJuridica extemds{
+public class PersonaJuridica {
+
 
 }
